@@ -16,3 +16,5 @@ Welcome to my GitHub resume repository! I am a **Desktop Support Technician** wi
 - Designed and implemented a home office network solution for clients, boosting connectivity and reliability.
 - Delivered exceptional desktop support services to a 200+ user base in a fast-paced environment.
 
+- https://github.com/your-username/your-repo-name/raw/main/resume.pdf
+
