@@ -16,4 +16,4 @@ Welcome to my GitHub resume repository! I am a **Desktop Support Technician** wi
 - Designed and implemented a home office network solution for clients, boosting connectivity and reliability.
 - Delivered exceptional desktop support services to a 200+ user base in a fast-paced environment.
 -  ## 📄 [Click here to view  my resume
-- Resume_it_final_Hamdollah Shadman mehr (1).docx
+- https://github.com/hamidshadi/Resume-/blob/main/Resume_it_final_Hamdollah%20Shadman%20mehr.pdf
